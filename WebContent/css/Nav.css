@@ -1,0 +1,61 @@
+#beijing{
+				background-image:url(../img/terrace.png);
+				background-repeat:repeat ;
+			}
+			.nav{
+				background-color:transparent;
+			}
+			.container,.container-fluid,.col-xs.12,.col-md-12,.col-md-8{
+			    padding-left:0;
+			    padding-right:0;
+			}
+			.div.container{
+		        margin-left:0px;
+		        margin-right:0px;
+		  }
+			div.col-md-8{
+			    padding-left:0px;
+			    padding-right:0px;
+			}
+			.well{
+				background-color:rgba(0,191,255,0.5);
+				border-bottom-left-radius:1.5em ;
+				border-bottom-right-radius:1.5em ;
+				border-top-left-radius: 1.5em;
+				border-top-right-radius: 1.5em;
+			}
+			.btn-primary{
+				background-color: rgba(0,0,0,0.2);
+				color: rgb(255,255,255);
+				border: none;
+			}
+			input textarea{
+				border-bottom-left-radius:1.5em ;
+				border-bottom-right-radius:1.5em ;
+				border-top-left-radius: 1.5em;
+				border-top-right-radius: 1.5em;
+			}
+			 input[type="text"]{
+				background-color: rgba(255,255,255,1);
+				border: none;
+				color: #999;
+			}
+			input[type="email"]{
+				background-color: rgba(255,255,255,1);
+				border: none;
+				color: #999;
+			}
+			textarea[name="content"]{
+				background-color: rgba(255,255,255,1);
+				border: none;
+				color: #999;
+			}
+			.navbar-inverse .navbar-nav > .active > a{
+				background-color: rgb(0,191,255);
+			}
+			.navbar-inverse .navbar-nav > .active > a:hover{
+				background-color: rgba(0,0,0,0.5);
+			}
+			.form-control{
+				height: 40px;
+			}

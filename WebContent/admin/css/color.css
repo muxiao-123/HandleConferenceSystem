@@ -1,0 +1,21 @@
+#div11{
+				background: url(../../img/背景一.jpg);
+				background-repeat: repeat;
+				padding-top:60px ;
+			}
+			.nav{
+				background-color:rgba(247,238,214,0.9);
+			}
+			.panel{
+				background-color: transparent;
+			}
+			.panel-warning>.panel-heading{
+				background-color:rgba(247,238,214,0.4);
+			}
+			body{
+			 background-color:rgba(247,238,214,0.9);
+			}
+			.nav-tabs{
+			 border-bottom:0px;
+			}
+			

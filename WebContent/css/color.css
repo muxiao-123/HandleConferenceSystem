@@ -1,0 +1,26 @@
+#div11{
+				background: url(../img/terrace.png);
+				background-repeat: repeat;
+				padding-top:40px ;
+			}
+			.nav{
+				background-color:transparent;
+			}
+			.panel{
+				background-color: transparent;
+			}
+			.panel-warning>.panel-heading{
+				background-color:rgba(247,238,214,1);
+			}
+			
+			body{
+			 background-color:rgba(247,238,214,0.9);
+			}
+			.nav-tabs{
+			 border-bottom:0px;
+			}
+			#div123{
+			background: url(../img/terrace.png);
+				background-repeat: repeat;
+			}
+			

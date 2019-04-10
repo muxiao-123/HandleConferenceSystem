@@ -1,0 +1,15 @@
+.carousel-indicators li{
+				background-color: #FFFFFF;
+			}
+			.carousel-indicators .active{
+				background-color: #1ABB9C;
+			}
+			.carousel-control{
+				background-color:rgb(247,238,214);
+			}
+			.carousel-inner{
+				background-color:rgba(247,238,214,1);
+			}
+			.list-group-item{
+				background-color: rgba(255,255,255,0.8);
+			}
